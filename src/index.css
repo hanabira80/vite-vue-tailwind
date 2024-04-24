@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'test';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2404-2@1.0/April16th-Promise.woff2') format('woff2');
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
